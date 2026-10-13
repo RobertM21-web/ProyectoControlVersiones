@@ -8,5 +8,8 @@
  * @author M
  */
 public class Principal {
-    Montesdeoca;
+    
+    public static void main(String[] args) {
+        System.out.println("HOLA MUNDO");
+    }
 }
